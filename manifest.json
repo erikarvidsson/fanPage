@@ -1,0 +1,21 @@
+{
+  "short_name": "PF",
+  "name": "Pulp Fiction",
+  "icons": [
+    {
+      "src": "./pf192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./pf512x512.png.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/maps/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/maps/",
+  "theme_color": "#3367D6"
+}
